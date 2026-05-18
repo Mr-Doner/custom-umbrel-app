@@ -1,29 +1,23 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
+id: "custom-wireguard-advanced"
+name: "WireGuard Advanced"
+tagline: "Advanced WireGuard VPN backend and management UI"
+icon: "https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/wireguard/icon.svg"
+category: "Network"
 version: "1.0.0"
-port: 4000
+port: 51821
 description: >-
-  Add your app's description here.
-
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+  WireGuard VPN backend paired with an advanced, easy-to-use management web interface.
+developer: "Levi"
+website: "https://github.com/Mr-Doner/custom-umbrel-app"
+submitter: "Mr-Doner"
+submission: "https://github.com/Mr-Doner/custom-umbrel-app"
+repo: "https://github.com/Mr-Doner/custom-umbrel-app"
+support: "https://github.com/Mr-Doner/custom-umbrel-app/issues"
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Initial release of WireGuard Advanced custom container wrapper.
 dependencies: []
 path: ""
 defaultUsername: ""
